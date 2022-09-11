@@ -1,4 +1,4 @@
 # cnn-rakam-tanima
-Handwritten Number Recognition with Convolutional Neural Network (MNIST)
- 
-Evrişimli Sinir Ağı ile (MNIST) El Yazısı Rakam Tanıma
+Handwritten digit recognition on MNIST dataset with convolutional neural network using Keras library on TensorFlow
+
+TensorFlow üzerinde Keras kütüphanesi kullanılarak evrişimli sinir ağı ile MNIST veriseti üzerinde el yazısı rakam tanıma 
